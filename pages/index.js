@@ -186,9 +186,9 @@ export default function Home() {
           </ul>
         </div>
 
-        {/* <div className="map">
+        <div className="map">
           <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14107.795678797595!2d128.21823999017107!3d27.8728394235774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34e24f342af39daf%3A0xc88a39cf650d74fe!2z56Gr6buE6bOl5bO2!5e0!3m2!1sja!2sjp!4v1660777127455!5m2!1sja!2sjp"></iframe>
-        </div> */}
+        </div>
       </aside>
 
       <footer className="footer">COPYRIGHT © YAMACAFE</footer>
